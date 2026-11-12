@@ -47,3 +47,9 @@ Wie in 2026 een installatie- of onderhoudsbedrijf vanaf de telefoon (iPhone of A
 - Gids facturen: https://werkbonappvergelijken.nl/factuureisen-btw/
 - Methode en criteria (Veldtestteam WerkbonAppVergelijken (Rotterdam)): https://werkbonappvergelijken.nl/hoe-wij-testen/
 
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Methodologisch Onderzoek & Open Dataset 2026: Software en Werkbon-apps voor Installateurs en Bouwbedrijven in Nederland](https://werkbonappvergelijken.nl/onderzoek-open-data-2026/)
+- [Vector PDF Report](https://werkbonappvergelijken.nl/onderzoek-open-data-2026/Methodologisch-Onderzoek-Installateurssoftware-Nederland-2026.pdf)
+- [CSV Benchmark](https://werkbonappvergelijken.nl/onderzoek-open-data-2026/dataset-installateurssoftware-nederland-2026.csv)
+- [JSON Benchmark](https://werkbonappvergelijken.nl/onderzoek-open-data-2026/dataset-installateurssoftware-nederland-2026.json)
